@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gh4ck3r/jira-works/issues"
   },
-  "homepage": "https://github.com/gh4ck3r/jira-works#readme"
+  "homepage": "https://github.com/gh4ck3r/jira-works#readme",
+  "dependencies": {
+    "keytar": "git+ssh://git@github.com/gh4ck3r/node-keytar.git"
+  }
 }
